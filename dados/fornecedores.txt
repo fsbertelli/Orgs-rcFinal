@@ -1,0 +1,10 @@
+Verduras & Cia Ltda,12.345.678/0001-90  
+Frutas do Campo Distribuidora,23.456.789/0001-01  
+Horti Brasil Comércio de Alimentos,34.567.890/0001-12  
+Distribuidora Agro Verde,45.678.901/0001-23  
+Natural Fresh Hortifruti,56.789.012/0001-34  
+Orgânicos da Terra Ltda,67.890.123/0001-45  
+Frutiverde Distribuidora de Alimentos,78.901.234/0001-56  
+Verdejar Produtos Naturais,89.012.345/0001-67  
+Horti & Fruti Comércio e Distribuição,90.123.456/0001-78  
+Sabor da Horta Alimentos Naturais,01.234.567/0001-89  

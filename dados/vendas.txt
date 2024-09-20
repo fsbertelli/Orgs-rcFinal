@@ -1,0 +1,1 @@
+Cliente: Maria Oliveira, Produto: Banana, Quantidade: 10, Preço Unitário: 4.5, Valor total: R$ 45
