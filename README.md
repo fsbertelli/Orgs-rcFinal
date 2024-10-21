@@ -1,6 +1,6 @@
 # Orgs - Gestão de HortiFruti
 
-Este projeto foi desenvolvido para o Projeto Integrador Multidisciplinar (PIM) no curso de Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP), campus Araçatuba. O objetivo do projeto é criar um sistema de gestão para hortifrúti, permitindo o gerenciamento eficiente de produtos, fornecedores e vendas.
+Este projeto foi desenvolvido para o Projeto Integrador Multidisciplinar (PIM) no curso de Análise e Desenvolvimento de Sistemas da Universidade Paulista (UNIP), campus Araçatuba. O objetivo do projeto é criar um sistema de gestão para hortifrúti, permitindo o gerenciamento eficiente de produtos, fornecedores, vendas e relatórios.
 
 ## Objetivo
 
