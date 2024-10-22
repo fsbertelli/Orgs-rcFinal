@@ -4,18 +4,19 @@ Este projeto foi desenvolvido para o Projeto Integrador Multidisciplinar (PIM) n
 
 ## Objetivo
 
-O sistema visa fornecer uma solução simples e eficiente para o gerenciamento de produtos hortifrúti, permitindo o controle de estoque, cadastro de produtos e fornecedores, e acompanhamento de vendas. O sistema foi desenvolvido como parte da disciplina de Técnicas de Programação.
+O sistema visa fornecer uma solução simples e eficiente para o gerenciamento de produtos hortifrúti, permitindo o controle de estoque, cadastro de produtos e fornecedores, e acompanhamento de vendas. O sistema foi desenvolvido como parte da disciplinas de Fundamentos de Redes de Dados e Comunicação, Engenharia De Software I, Linguagem e Técnicas de Programação, Matemática para Computação, Ética e Legislação Profissional, Metodologia Científica e Educação Ambiental.
 
 ## Funcionalidades
 
-* Cadastro de produtos (nome, quantidade, preço, validade).
-* Gerenciamento de estoque (adição, remoção e atualização de produtos).
-* Cadastro de fornecedores.
+* Cadastro de produtos (nome, quantidade, preço).
+* Gerenciamento de estoque.
+* Cadastro de clientes e fornecedores.
 * Registro de vendas e relatórios de desempenho.
 
 ## Tecnologias Utilizadas
 
 * Linguagem: C++
+* Plataformas: Windows e Linux ARM
 * Ferramentas de Desenvolvimento:
   * IDE: Visual Studio 2022
   * Compilador: GCC
