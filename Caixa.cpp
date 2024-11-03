@@ -1,3 +1,26 @@
+/*
+ * Nome do Arquivo: Caixa.cpp
+ * Autores: Felipe Bertelli dos Santos, Fernanda Melo, Jean Lucas Gomes Gama, Rony Siqueira da Silva,Tiago gonzaga da Silva, Marcos Antonio do Carmo Alves
+ * Data: [14/11/2024]
+ * Descrição: Este módulo implementa as funcionalidades relacionadas ao Caixa.
+ *            Ele permite ao usuário o cadastro de clientes e a realização de vendas,
+ *            verificando a disponibilidade de produtos no estoque.
+ *
+ * Métodos:
+ * - Função `cadastrarCliente()`: Permite ao usuário o cadastro de novos clientes, armazenando seus
+ *   nomes e CPFs em um arquivo de texto.
+ * - Função `realizarVenda()`: Permite ao usuário realizar vendas, verificando se o cliente está
+ *   cadastrado e se há quantidade suficiente do produto desejado no estoque. Registra
+ *   a venda em um arquivo de texto e atualiza o estoque.
+ *
+ * Notas:
+ * - O programa utiliza arquivos de texto para armazenar dados de clientes, produtos e vendas.
+ * - Os arquivos de texto se encontram no diretório ~/dados
+ * - A função `toLowerCase()` é usada para garantir que as comparações de strings sejam
+ *   insensíveis a maiúsculas e minúsculas.
+ * - A função `extrairNome()` é utilizada para extrair linha a linha de um arquivo de texto.
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>

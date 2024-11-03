@@ -1,3 +1,25 @@
+/*
+ * Nome do Arquivo: Header.h
+ * Autores: Felipe Bertelli dos Santos, Fernanda Melo, Jean Lucas Gomes Gama, Rony Siqueira da Silva,Tiago gonzaga da Silva, Marcos Antonio do Carmo Alves 
+ * Data: [14/11/2024]
+ * Descrição: Este arquivo de cabeçalho declara funções para exibir painéis de informações
+ *            a fim de simular um ambiente Linux a partir de um terminal SSH.
+ *
+ * Métodos:
+ * - Função `printPanel()`: Exibe um painel de informações gerais na tela principal da aplicação.
+ * - Função `printCaixa()`: Exibe informações específicas para a estação Caixa.
+ * - Função `printServidor()`: Exibe informações específicas para a estação Servidor.
+ * - Função `printEstoque()`: Exibe informações específicas para a estação Estoque
+ * - Todas as funções retornam um banner ASCII com data e hora atuais.
+ *
+ * Notas:
+ * - O arquivo inclui a biblioteca `<windows.h>` para utilizar funções específicas do Windows,
+ *   como `SetConsoleOutputCP()` para definir a codificação de caracteres do console.
+ * - A função `printDateTime()` é chamada para exibir a data e hora atuais, definida no arquivo
+ *   `DTime.h`.
+ */
+
+
 #include <iostream>
 #include <string>
 #include <windows.h>

@@ -1,1 +1,2 @@
 Cliente: Maria Oliveira, Produto: Banana, Quantidade: 10, Preço Unitário: 4.5, Valor total: R$ 45
+Cliente: Camila Almeida, Produto: Batata, Quantidade: 10, Preço Unitário: 6.1, Valor total: R$ 61

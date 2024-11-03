@@ -1,3 +1,23 @@
+/*
+ * Nome do Arquivo: Estoque.cpp
+ * Autores: Felipe Bertelli dos Santos, Fernanda Melo, Jean Lucas Gomes Gama, Rony Siqueira da Silva,Tiago gonzaga da Silva, Marcos Antonio do Carmo Alves
+ * Data: [14/11/2024]
+ * Descrição: Este módulo implementa as funcionalidades relacionadas ao Estoque.
+ *            Ele permite o cadastro de novos produtos e fornecedores, armazenando
+ *            essas informações em arquivos de texto.
+ *
+ * Métodos:
+ * - Função `cadastrarProduto()`: Permite ao usuário o cadastro de novos produtos, armazenando seus
+ *   nomes, quantidades e preços em um arquivo de texto.
+ * - Função `cadastrarFornecedor()`: Permite ao usuário o cadastro de novos fornecedores, armazenando
+ *   seus nomes e outras informações relevantes em um arquivo de texto.
+ *
+ * Notas:
+ * - O programa utiliza arquivos de texto para armazenar dados de produtos e fornecedores.
+ * - Os arquivos de texto se encontram no diretório ~/dados
+ */
+
+
 #include <iostream>
 #include <fstream>
 #include <string>

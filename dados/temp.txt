@@ -1,10 +1,10 @@
-Banana,0,4.5
+Banana,10,4.5
 Maçã,5,6.8
 Alface,3,2.2
 Tomate,8,5.3
 Cenoura,12,3.9
 Laranja,7,4
 Pimentão,4,7.25
-Batata,15,6.1
+Batata,5,6.1
 Couve,6,2.75
 Abacaxi,2,9.5

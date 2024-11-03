@@ -1,3 +1,20 @@
+/*
+ * Nome do Arquivo: Orgs-rcFinal.cpp
+ * Autores: Felipe Bertelli dos Santos, Fernanda Melo, Jean Lucas Gomes Gama, Rony Siqueira da Silva,Tiago gonzaga da Silva, Marcos Antonio do Carmo Alves
+ * Data: [14/11/2024]
+ * Descrição: Orgs é uma aplicação de gerenciamento de hortifruti. O usuário pode
+ *            escolher entre diferentes estações: Servidor (Gerência), Caixa e Estoque. Cada
+ *            estação oferece um conjunto de funcionalidades específicas, como gerar
+ *            relatórios, efetuar vendas, cadastrar clientes, produtos e fornecedores.
+ *
+ * Métodos:
+ * - Simulação Terminal SSH: Permite ao usuário uma experiência em navegar pelas estações (Linux) simulando um terminal SSH. 
+ * - Menu Principal: Permite ao usuário "acessar via SSH" as estações Servidor, Caixa e Estoque.
+ * - Estação Servidor: Gera relatórios de produtos, vendas, fornecedores e clientes.
+ * - Estação Caixa: Permite efetuar vendas e cadastrar novos clientes.
+ * - Estação Estoque: Permite cadastrar novos produtos e fornecedores.
+ */
+
 #include <iostream>
 #include "Header.h"
 #include "Funcoes.h"
